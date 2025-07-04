@@ -362,7 +362,7 @@ export const Wedding = () => {
             style={{ backgroundImage: "url('./images/bannercontent3.png')" }}
           >
             <div className="sdjhds">
-              <h4>AZA Gift Cards | Flat 10% OFF</h4>
+              <h4>Vinhem Fasion Gift Cards | Flat 10% OFF</h4>
               <h3>Perfect Present for any occasion</h3>
             </div>
           </div>
